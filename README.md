@@ -7,3 +7,5 @@
 - Nombrar el proyecto
 - Crear la clase y nombrarla
 - override fun onCreate
+![Texto alternativo](img.PNG)
+![Texto alternativo](img2.PNG)
